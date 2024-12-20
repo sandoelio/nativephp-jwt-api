@@ -1,6 +1,6 @@
 # Native PHP JWT API
 
-Este projeto é uma API RESTful desenvolvida em PHP nativo, com autenticação baseada em JWT (JSON Web Tokens), tendo como objetivo principal aprimorar habilidades em PHP sem o uso de frameworks.
+Este projeto é uma API RESTful desenvolvida em PHP nativo, com autenticação baseada em JWT (JSON Web Tokens), tendo como objetivo principal aprimorar habilidades em PHP utilizando as camadas MVC sem o uso de frameworks.
 
 ## 🎯 Objetivo
 Demonstrar como criar uma API segura e modular utilizando PHP puro, JWT para autenticação de usuários, e conexão com banco de dados via MySQL. O foco está na simplicidade e no entendimento aprofundado das bases do PHP.
